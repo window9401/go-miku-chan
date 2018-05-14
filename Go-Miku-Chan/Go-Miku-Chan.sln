@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Go-Miku-Chan", "Go-Miku-Chan\Go-Miku-Chan.vcxproj", "{D13978CF-DEFB-486C-B25A-3D6FB1B6BCDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D13978CF-DEFB-486C-B25A-3D6FB1B6BCDA}.Debug|x64.ActiveCfg = Debug|x64
+		{D13978CF-DEFB-486C-B25A-3D6FB1B6BCDA}.Debug|x64.Build.0 = Debug|x64
+		{D13978CF-DEFB-486C-B25A-3D6FB1B6BCDA}.Debug|x86.ActiveCfg = Debug|Win32
+		{D13978CF-DEFB-486C-B25A-3D6FB1B6BCDA}.Debug|x86.Build.0 = Debug|Win32
+		{D13978CF-DEFB-486C-B25A-3D6FB1B6BCDA}.Release|x64.ActiveCfg = Release|x64
+		{D13978CF-DEFB-486C-B25A-3D6FB1B6BCDA}.Release|x64.Build.0 = Release|x64
+		{D13978CF-DEFB-486C-B25A-3D6FB1B6BCDA}.Release|x86.ActiveCfg = Release|Win32
+		{D13978CF-DEFB-486C-B25A-3D6FB1B6BCDA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCDF3D3B-CCC2-4858-945A-BD6719FAEE97}
+	EndGlobalSection
+EndGlobal

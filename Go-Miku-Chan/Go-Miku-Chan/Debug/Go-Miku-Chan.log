@@ -1,0 +1,304 @@
+﻿  GoMikuChan.c
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(139): warning C4566: 유니버설 문자 이름 '\u521D'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(139): warning C4566: 유니버설 문자 이름 '\u97F3'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(139): warning C4566: 유니버설 문자 이름 '\u30DF'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(139): warning C4566: 유니버설 문자 이름 '\u30AF'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(140): warning C4566: 유니버설 문자 이름 '\u93E1'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(140): warning C4566: 유니버설 문자 이름 '\u97F3'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(140): warning C4566: 유니버설 문자 이름 '\u30EA'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(140): warning C4566: 유니버설 문자 이름 '\u30F3'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(140): warning C4566: 유니버설 문자 이름 '\u30EC'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(141): warning C4566: 유니버설 문자 이름 '\u5DE1'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(141): warning C4566: 유니버설 문자 이름 '\u97F3'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(141): warning C4566: 유니버설 문자 이름 '\u30EB'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(141): warning C4566: 유니버설 문자 이름 '\u30AB'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(337): warning C4566: 유니버설 문자 이름 '\u25A0'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(338): warning C4566: 유니버설 문자 이름 '\u25A0'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(339): warning C4566: 유니버설 문자 이름 '\u25A0'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(341): warning C4566: 유니버설 문자 이름 '\u884C'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(341): warning C4566: 유니버설 문자 이름 '\u3051'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(341): warning C4566: 유니버설 문자 이름 '\u30DF'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(341): warning C4566: 유니버설 문자 이름 '\u30AF'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(341): warning C4566: 유니버설 문자 이름 '\u3061'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(341): warning C4566: 유니버설 문자 이름 '\u3083'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(341): warning C4566: 유니버설 문자 이름 '\u3093'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(343): warning C4566: 유니버설 문자 이름 '\u25A0'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(344): warning C4566: 유니버설 문자 이름 '\u25A0'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(345): warning C4566: 유니버설 문자 이름 '\u25A0'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(346): warning C4566: 유니버설 문자 이름 '\u25A0'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(347): warning C4566: 유니버설 문자 이름 '\u25A0'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(348): warning C4566: 유니버설 문자 이름 '\u25A0'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(350): warning C4566: 유니버설 문자 이름 '\u25A0'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(352): warning C4566: 유니버설 문자 이름 '\u30B9'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(352): warning C4566: 유니버설 문자 이름 '\u30BF'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(352): warning C4566: 유니버설 문자 이름 '\u3161'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(352): warning C4566: 유니버설 문자 이름 '\u30C8'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(354): warning C4566: 유니버설 문자 이름 '\u25A0'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(355): warning C4566: 유니버설 문자 이름 '\u25A0'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(356): warning C4566: 유니버설 문자 이름 '\u25A0'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(358): warning C4566: 유니버설 문자 이름 '\u25A0'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(360): warning C4566: 유니버설 문자 이름 '\u30D8'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(360): warning C4566: 유니버설 문자 이름 '\u30EB'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(360): warning C4566: 유니버설 문자 이름 '\u30D7'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(362): warning C4566: 유니버설 문자 이름 '\u25A0'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(363): warning C4566: 유니버설 문자 이름 '\u25A0'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(364): warning C4566: 유니버설 문자 이름 '\u25A0'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(366): warning C4566: 유니버설 문자 이름 '\u25A0'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(368): warning C4566: 유니버설 문자 이름 '\u7D42'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(368): warning C4566: 유니버설 문자 이름 '\u4E86'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(370): warning C4566: 유니버설 문자 이름 '\u25A0'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(371): warning C4566: 유니버설 문자 이름 '\u25A0'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(372): warning C4566: 유니버설 문자 이름 '\u25A0'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(375): warning C4566: 유니버설 문자 이름 '\u25A0'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(376): warning C4566: 유니버설 문자 이름 '\u25A0'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(377): warning C4566: 유니버설 문자 이름 '\u25A0'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(381): warning C4566: 유니버설 문자 이름 '\u25A0'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(382): warning C4566: 유니버설 문자 이름 '\u25A0'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(383): warning C4566: 유니버설 문자 이름 '\u25A0'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(384): warning C4566: 유니버설 문자 이름 '\u25A0'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(385): warning C4566: 유니버설 문자 이름 '\u25A0'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(393): warning C4566: 유니버설 문자 이름 '\u884C'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(393): warning C4566: 유니버설 문자 이름 '\u3051'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(393): warning C4566: 유니버설 문자 이름 '\uFF01'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(393): warning C4566: 유니버설 문자 이름 '\u30DF'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(393): warning C4566: 유니버설 문자 이름 '\u30AF'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(393): warning C4566: 유니버설 문자 이름 '\u3061'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(393): warning C4566: 유니버설 문자 이름 '\u3083'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(393): warning C4566: 유니버설 문자 이름 '\u3093'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(393): warning C4566: 유니버설 문자 이름 '\u306B'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(393): warning C4566: 유니버설 문자 이름 '\u3064'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(393): warning C4566: 유니버설 문자 이름 '\u3044'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(393): warning C4566: 유니버설 문자 이름 '\u3066'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(393): warning C4566: 유니버설 문자 이름 '\uFF08'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(393): warning C4566: 유니버설 문자 이름 '\uFF09'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(396): warning C4566: 유니버설 문자 이름 '\u884C'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(396): warning C4566: 유니버설 문자 이름 '\u3051'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(396): warning C4566: 유니버설 문자 이름 '\uFF01'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(396): warning C4566: 유니버설 문자 이름 '\u30DF'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(396): warning C4566: 유니버설 문자 이름 '\u30AF'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(396): warning C4566: 유니버설 문자 이름 '\u3061'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(396): warning C4566: 유니버설 문자 이름 '\u3083'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(396): warning C4566: 유니버설 문자 이름 '\u3093'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(396): warning C4566: 유니버설 문자 이름 '\u306F'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(396): warning C4566: 유니버설 문자 이름 '\u30B7'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(396): warning C4566: 유니버설 문자 이름 '\u30E5'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(396): warning C4566: 유니버설 문자 이름 '\u4E00'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(396): warning C4566: 유니버설 문자 이름 '\u30C6'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(396): warning C4566: 유니버설 문자 이름 '\u30A3'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(396): warning C4566: 유니버설 문자 이름 '\u30F3'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(396): warning C4566: 유니버설 문자 이름 '\u30B0'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(396): warning C4566: 유니버설 문자 이름 '\u30B2'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(396): warning C4566: 유니버설 문자 이름 '\u30E0'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(396): warning C4566: 유니버설 문자 이름 '\u306E'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(396): warning C4566: 유니버설 문자 이름 '\u7A2E'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(396): warning C4566: 유니버설 문자 이름 '\u3067'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(396): warning C4566: 유니버설 문자 이름 '\u3001'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(397): warning C4566: 유니버설 문자 이름 '\u30DC'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(397): warning C4566: 유니버설 문자 이름 '\u304B'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(397): warning C4566: 유니버설 문자 이름 '\u30ED'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(397): warning C4566: 유니버설 문자 이름 '\u30A4'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(397): warning C4566: 유니버설 문자 이름 '\u30C9'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(397): warning C4566: 유니버설 문자 이름 '\u306E'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(397): warning C4566: 유니버설 문자 이름 '\u521D'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(397): warning C4566: 유니버설 문자 이름 '\u97F3'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(397): warning C4566: 유니버설 문자 이름 '\u30DF'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(397): warning C4566: 유니버설 문자 이름 '\u30AF'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(397): warning C4566: 유니버설 문자 이름 '\u304C'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(397): warning C4566: 유니버설 문자 이름 '\u6D3B'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(397): warning C4566: 유니버설 문자 이름 '\u8E8D'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(397): warning C4566: 유니버설 문자 이름 '\u3059'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(397): warning C4566: 유니버설 문자 이름 '\u308B'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(397): warning C4566: 유니버설 문자 이름 '\u30B2'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(397): warning C4566: 유니버설 문자 이름 '\u4E00'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(397): warning C4566: 유니버설 문자 이름 '\u30E0'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(397): warning C4566: 유니버설 문자 이름 '\u3067'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(397): warning C4566: 유니버설 문자 이름 '\u3002'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(398): warning C4566: 유니버설 문자 이름 '\u4E00'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(398): warning C4566: 유니버설 문자 이름 '\u822C'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(398): warning C4566: 유니버설 문자 이름 '\u6575'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(398): warning C4566: 유니버설 문자 이름 '\uFF08'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(398): warning C4566: 유니버설 문자 이름 '\u90E8'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(398): warning C4566: 유니버설 문자 이름 '\u4E0B'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(398): warning C4566: 유니버설 문자 이름 '\uFF09'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(398): warning C4566: 유니버설 문자 이름 '\u306F'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(398): warning C4566: 유니버설 문자 이름 '\u3042'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(398): warning C4566: 유니버설 문자 이름 '\u308A'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(398): warning C4566: 유니버설 문자 이름 '\u307E'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(398): warning C4566: 유니버설 문자 이름 '\u305B'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(398): warning C4566: 유니버설 문자 이름 '\u3093'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(398): warning C4566: 유니버설 문자 이름 '\u306E'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(398): warning C4566: 유니버설 문자 이름 '\u3067'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(398): warning C4566: 유니버설 문자 이름 '\u3001'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(398): warning C4566: 유니버설 문자 이름 '\u3055'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(398): warning C4566: 유니버설 문자 이름 '\u3063'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(398): warning C4566: 유니버설 문자 이름 '\u305D'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(398): warning C4566: 유니버설 문자 이름 '\u304F'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(398): warning C4566: 유니버설 문자 이름 '\u30DC'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(398): warning C4566: 유니버설 문자 이름 '\u30B9'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(398): warning C4566: 유니버설 문자 이름 '\u3068'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(398): warning C4566: 유니버설 문자 이름 '\u305F'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(398): warning C4566: 유니버설 문자 이름 '\u304B'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(398): warning C4566: 유니버설 문자 이름 '\u3046'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(398): warning C4566: 유니버설 문자 이름 '\u3053'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(398): warning C4566: 유니버설 문자 이름 '\u306B'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(398): warning C4566: 유니버설 문자 이름 '\u306A'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(398): warning C4566: 유니버설 문자 이름 '\u3059'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(398): warning C4566: 유니버설 문자 이름 '\u3002'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(399): warning C4566: 유니버설 문자 이름 '\u30B9'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(399): warning C4566: 유니버설 문자 이름 '\u30C6'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(399): warning C4566: 유니버설 문자 이름 '\u4E00'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(399): warning C4566: 유니버설 문자 이름 '\u30B8'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(399): warning C4566: 유니버설 문자 이름 '\u306F'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(399): warning C4566: 유니버설 문자 이름 '\uFF12'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(399): warning C4566: 유니버설 문자 이름 '\u6BB5'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(399): warning C4566: 유니버설 문자 이름 '\u968E'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(399): warning C4566: 유니버설 문자 이름 '\u307E'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(399): warning C4566: 유니버설 문자 이름 '\u3067'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(399): warning C4566: 유니버설 문자 이름 '\u3042'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(399): warning C4566: 유니버설 문자 이름 '\u308A'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(399): warning C4566: 유니버설 문자 이름 '\u3001'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(399): warning C4566: 유니버설 문자 이름 '\u3054'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(399): warning C4566: 유니버설 문자 이름 '\u3068'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(399): warning C4566: 유니버설 문자 이름 '\u306B'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(399): warning C4566: 유니버설 문자 이름 '\u6E96'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(399): warning C4566: 유니버설 문자 이름 '\u5099'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(399): warning C4566: 유니버설 문자 이름 '\uFF08'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(399): warning C4566: 유니버설 문자 이름 '\u5F85'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(399): warning C4566: 유니버설 문자 이름 '\u6A5F'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(399): warning C4566: 유니버설 문자 이름 '\uFF09'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(399): warning C4566: 유니버설 문자 이름 '\u6642'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(399): warning C4566: 유니버설 문자 이름 '\u9593'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(399): warning C4566: 유니버설 문자 이름 '\u305B'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(399): warning C4566: 유니버설 문자 이름 '\u3093'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(399): warning C4566: 유니버설 문자 이름 '\uFF01'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(400): warning C4566: 유니버설 문자 이름 '\u8A70'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(400): warning C4566: 유니버설 문자 이름 '\u307E'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(400): warning C4566: 유니버설 문자 이름 '\u3089'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(400): warning C4566: 유니버설 문자 이름 '\u306A'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(400): warning C4566: 유니버설 문자 이름 '\u3044'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(400): warning C4566: 유니버설 문자 이름 '\u4F5C'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(400): warning C4566: 유니버설 문자 이름 '\u54C1'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(400): warning C4566: 유니버설 문자 이름 '\u3067'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(400): warning C4566: 유니버설 문자 이름 '\u3059'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(400): warning C4566: 유니버설 문자 이름 '\u304C'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(400): warning C4566: 유니버설 문자 이름 '\u3001'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(400): warning C4566: 유니버설 문자 이름 '\u5C11'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(400): warning C4566: 유니버설 문자 이름 '\u3057'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(400): warning C4566: 유니버설 문자 이름 '\u3082'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(400): warning C4566: 유니버설 문자 이름 '\u304A'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(400): warning C4566: 유니버설 문자 이름 '\u305F'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(400): warning C4566: 유니버설 문자 이름 '\u306E'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(400): warning C4566: 유니버설 문자 이름 '\u307F'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(400): warning C4566: 유니버설 문자 이름 '\u3060'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(400): warning C4566: 유니버설 문자 이름 '\u3051'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(400): warning C4566: 유니버설 문자 이름 '\u308C'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(400): warning C4566: 유니버설 문자 이름 '\u3070'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(400): warning C4566: 유니버설 문자 이름 '\u5927'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(400): warning C4566: 유니버설 문자 이름 '\u304D'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(400): warning C4566: 유니버설 문자 이름 '\u529B'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(400): warning C4566: 유니버설 문자 이름 '\u306B'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(400): warning C4566: 유니버설 문자 이름 '\u308A'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(400): warning C4566: 유니버설 문자 이름 '\uFF01'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(402): warning C4566: 유니버설 문자 이름 '\uFF08'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(402): warning C4566: 유니버설 문자 이름 '\u30CD'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(402): warning C4566: 유니버설 문자 이름 '\u30AE'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(402): warning C4566: 유니버설 문자 이름 '\u3092'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(402): warning C4566: 유니버설 문자 이름 '\u4E09'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(402): warning C4566: 유니버설 문자 이름 '\u3064'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(402): warning C4566: 유니버설 문자 이름 '\u6295'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(402): warning C4566: 유니버설 문자 이름 '\u3052'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(402): warning C4566: 유니버설 문자 이름 '\u307E'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(402): warning C4566: 유니버설 문자 이름 '\u3059'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(402): warning C4566: 유니버설 문자 이름 '\uFF09'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(403): warning C4566: 유니버설 문자 이름 '\uFF08'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(403): warning C4566: 유니버설 문자 이름 '\u30DF'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(403): warning C4566: 유니버설 문자 이름 '\u30C9'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(403): warning C4566: 유니버설 문자 이름 '\u30EA'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(403): warning C4566: 유니버설 문자 이름 '\u8272'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(403): warning C4566: 유니버설 문자 이름 '\u306E'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(403): warning C4566: 유니버설 문자 이름 '\u30AD'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(403): warning C4566: 유니버설 문자 이름 '\u30E5'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(403): warning C4566: 유니버설 문자 이름 '\u4E00'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(403): warning C4566: 유니버설 문자 이름 '\u30D6'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(403): warning C4566: 유니버설 문자 이름 '\u3092'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(403): warning C4566: 유니버설 문자 이름 '\u6295'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(403): warning C4566: 유니버설 문자 이름 '\u3052'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(403): warning C4566: 유니버설 문자 이름 '\u307E'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(403): warning C4566: 유니버설 문자 이름 '\u3059'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(403): warning C4566: 유니버설 문자 이름 '\uFF09'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(404): warning C4566: 유니버설 문자 이름 '\u2190'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(404): warning C4566: 유니버설 문자 이름 '\u2191'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(404): warning C4566: 유니버설 문자 이름 '\u2192'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(404): warning C4566: 유니버설 문자 이름 '\u2193'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(406): warning C4566: 유니버설 문자 이름 '\u2190'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(406): warning C4566: 유니버설 문자 이름 '\u3092'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(406): warning C4566: 유니버설 문자 이름 '\u62BC'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(406): warning C4566: 유니버설 문자 이름 '\u3059'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(406): warning C4566: 유니버설 문자 이름 '\u3068'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(406): warning C4566: 유니버설 문자 이름 '\u30B9'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(406): warning C4566: 유니버설 문자 이름 '\u30BF'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(406): warning C4566: 유니버설 문자 이름 '\u4E00'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(406): warning C4566: 유니버설 문자 이름 '\u30C8'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(406): warning C4566: 유니버설 문자 이름 '\u30E1'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(406): warning C4566: 유니버설 문자 이름 '\u30A4'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(406): warning C4566: 유니버설 문자 이름 '\u30F3'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(406): warning C4566: 유니버설 문자 이름 '\u3078'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(406): warning C4566: 유니버설 문자 이름 '\u884C'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(406): warning C4566: 유니버설 문자 이름 '\u304D'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(406): warning C4566: 유니버설 문자 이름 '\u307E'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(406): warning C4566: 유니버설 문자 이름 '\u3002'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(599): warning C4047: '함수': 'char'의 간접 참조 수준이 'char [3][4]'과(와) 다릅니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(599): warning C4024: 'attackskill': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(755): warning C4047: '함수': 'char'의 간접 참조 수준이 'char [9][2]'과(와) 다릅니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(755): warning C4024: 'attack11': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(801): warning C4047: '함수': 'char'의 간접 참조 수준이 'char [7][2]'과(와) 다릅니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(801): warning C4024: 'attack12': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(848): warning C4047: '함수': 'char'의 간접 참조 수준이 'char [4][9]'과(와) 다릅니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(848): warning C4024: 'attack13': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(884): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(884): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(905): warning C4047: '함수': 'char'의 간접 참조 수준이 'char [13][27]'과(와) 다릅니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(905): warning C4024: 'attack14': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(981): warning C4047: '함수': 'char'의 간접 참조 수준이 'char [20][2]'과(와) 다릅니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(981): warning C4024: 'attack21': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(983): warning C4047: '함수': 'char'의 간접 참조 수준이 'char [20][2]'과(와) 다릅니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(983): warning C4024: 'attack21_2': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(1009): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(1009): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(1030): warning C4047: '함수': 'char'의 간접 참조 수준이 'char [4][15]'과(와) 다릅니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(1030): warning C4024: 'attack22': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(1057): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(1075): warning C4047: '함수': 'char'의 간접 참조 수준이 'char [1][4]'과(와) 다릅니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(1075): warning C4024: 'attack24': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(1112): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(1133): warning C4047: '함수': 'char'의 간접 참조 수준이 'char [11][16]'과(와) 다릅니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(1133): warning C4024: 'attack25': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(1170): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(1193): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(1229): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(1231): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(1231): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(1261): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(1264): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(1274): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(1276): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(1283): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(1285): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(1292): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(1294): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(1301): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(1303): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(1310): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(1311): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(1318): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(1319): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(1326): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(1327): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(1334): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(1335): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(1342): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(1343): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(1354): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(1364): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\programming\c\go-miku-chan\go-miku-chan\go-miku-chan\gomikuchan.c(1373): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Go-Miku-Chan.vcxproj -> C:\Programming\C\Go-Miku-Chan\Go-Miku-Chan\Debug\Go-Miku-Chan.exe
