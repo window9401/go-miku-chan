@@ -1,5 +1,5 @@
 ﻿/**
-	Title				: ike! Miku chan!
+	Title			: ike! Miku chan!
 	Developing period	: 2014/11/20 ~ 2014/12/3
 	Developed By		: window9401@gmail.com
  */
@@ -29,12 +29,12 @@
 // for game flow
 unsigned int			key;			// identify inputted value(keyboard) 
 unsigned int			flow;			// "for" construction's variable be made for map's realization
-unsigned int			stagelevel = 1;	// stage level
+unsigned int			stagelevel = 1;		// stage level
 unsigned int			turn = 0;		// for game's sequential flow
 
 // define HP & MP, location(character, attack, skill), etc setting for character
-int						mikuHP = 30;
-int						mikuMP = 10;
+int				mikuHP = 30;
+int				mikuMP = 10;
 unsigned int			mikuX = 2;
 unsigned int			mikuY = 11;
 unsigned int			attackX = 0;
@@ -62,9 +62,9 @@ int						bossattacklimit=0; // boss's attack limit
 void opening();					// game opening title
 void help();					// game guide
 void gotoxy();					// for move chracter & boss in console
-void removecursor();			// blinking cousor remove in left up
+void removecursor();				// blinking cousor remove in left up
 void roundstart();				// paint every game stage
-void erase(int, int, int, int);	// remove painted area in console
+void erase(int, int, int, int);			// remove painted area in console
 
 // for character
 // update character, attack, skill's position
@@ -104,137 +104,137 @@ void attack25(char,int);
 
 // game stage
 char stage[24][81] = { "|-----------------------------------------------------------------------------|\n",
-					   "|                                                                             |\n",
-					   "|                                                                             |\n",
-					   "|                                                                             |\n",
-					   "|                                                                             |\n",
-					   "|                                                                             |\n",
-					   "|                                                                             |\n",
-					   "|                                                                             |\n",
-					   "|                                                                             |\n",
-				       "|                                                                             |\n",
-					   "|                                                                             |\n",
-					   "|                                                                             |\n",
-					   "|                                                                             |\n",
-					   "|                                                                             |\n",
-					   "|                                                                             |\n",
-					   "|                                                                             |\n",
-					   "|                                                                             |\n",
-					   "|                                                                             |\n",
-					   "|                                                                             |\n",
-					   "|                                                                             |\n",
-					   "|                                                                             |\n",
-					   "|-----------------------------------------------------------------------------|\n",
-					   "|                                                                             |\n",
-					   "|                                                                             |\n" };
+		       "|                                                                             |\n",
+		       "|                                                                             |\n",
+		       "|                                                                             |\n",
+		       "|                                                                             |\n",
+		       "|                                                                             |\n",
+		       "|                                                                             |\n",
+		       "|                                                                             |\n",
+		       "|                                                                             |\n",
+		       "|                                                                             |\n",
+		       "|                                                                             |\n",
+		       "|                                                                             |\n",
+		       "|                                                                             |\n",
+		       "|                                                                             |\n",
+		       "|                                                                             |\n",
+		       "|                                                                             |\n",
+		       "|                                                                             |\n",
+		       "|                                                                             |\n",
+		       "|                                                                             |\n",
+		       "|                                                                             |\n",
+		       "|                                                                             |\n",
+		       "|-----------------------------------------------------------------------------|\n",
+		       "|                                                                             |\n",
+		       "|                                                                             |\n" };
 
 // define character, bosses, attack, skills
 char miku[1][6]= {"(^0^)"};						// character (miku)
 char boss1[4][6]={"(^o^)",						// stage1 boss (rin+len)
-				  "     ",
-				  "     ",
-				  "(-_-)"};
+		  "     ",
+		  "     ",
+		  "(-_-)"};
 char boss2[1][6]={"(>_<)"};						// stage2 boss (luka)
 // define character & boss name
 char mikuname[1][20]  = { "初音ミク" };
-char boss1name[1][20] = { "鏡音リン*レン" };	// boss1's name 
-char boss2name[1][20] = { "巡音ルカ" };			// boss2's name
+char boss1name[1][20] = { "鏡音リン*レン" };				// boss1's name 
+char boss2name[1][20] = { "巡音ルカ" };				 // boss2's name
 // define attacks, skill
-char mikuattack[2]="0";					// default attack (bullet)
-char mikuskill[3][4]={"***",			// character's skill form (throw leek's extraction cube)
-					  "***",
-					  "***"};
-char bossattack11[9][2]={  "*",			// boss1's attack1 (5 bullets)
-					       " ",
-					       "*",
-					       " ",
-					       "*",
-					       " ",
-				    	   "*",
-					       " ",
-					       "*"};
-char bossattack12[7][2]={  "*",			// boss1's attack2 (4 bullets)
-					       " ",
-					       "*",
-					       " ",
-					       "*",
-				    	   " ",
-					       "*"};
-char bossattack13[4][9]={  " **  ** ",	// boss1's attack3 (throw heart)
-						   "********",
-						   " ****** ",
-				     	   "   **   "}; 
-char bossattack14[13][27]={  "      ** **    ** **      ",	// "The Panda doll"...  very strong!
-				             "      ** **    ** **      ",
- 	                         "      *****    *****      ",
-	                         "     ****************     ",
-	                         "     *  **      **  *     ",
-	                         "     *              *     ",
-	                         "    ******************    ",
-	                         "   ***              ***   ",
-	                         "  ****              ****  ",
-	                         " ***  **************  *** ",
-	                         "        ***    ***        ",
-	                         "        ***    ***        ",
-	                         "        ***    ***        "};
+char mikuattack[2]="0";							// default attack (bullet)
+char mikuskill[3][4]={"***",						// character's skill form (throw leek's extraction cube)
+		      "***",
+		      "***"};
+char bossattack11[9][2]={  "*",						// boss1's attack1 (5 bullets)
+		           " ",
+		           "*",
+		           " ",
+		           "*",
+		           " ",
+		           "*",
+		           " ",
+		           "*"};
+char bossattack12[7][2]={  "*",						// boss1's attack2 (4 bullets)
+			   " ",
+			   "*",
+			   " ",
+			   "*",
+			   " ",
+			   "*"};
+char bossattack13[4][9]={  " **  ** ",					// boss1's attack3 (throw heart)
+			   "********",
+			   " ****** ",
+			   "   **   "}; 
+char bossattack14[13][27]={  "      ** **    ** **      ",		// "The Panda doll"...  very strong!
+			     "      ** **    ** **      ",
+			     "      *****    *****      ",
+			     "     ****************     ",
+			     "     *  **      **  *     ",
+			     "     *              *     ",
+			     "    ******************    ",
+			     "   ***              ***   ",
+			     "  ****              ****  ",
+			     " ***  **************  *** ",
+			     "        ***    ***        ",
+			     "        ***    ***        ",
+			     "        ***    ***        "};
 char bossattack21[20][2]={				// boss2's attack1
-			             "*",
-						 " ",
-						 "*",
-						 " ",
-                         "*",
-                         " ",
-                         "*",
-                         " ",
-                         "*",
-                         " ",
-						 "*",
-						 " ",
-						 "*",
-						 " ",
-                         "*",
-                         " ",
-                         "*",
-                         " ",
-                         "*",
-                         " "};
-char bossattack21_2[20][2]={			// boss2's attack1_2 (attack1_1 + attack1_2)
-			             " ",
-						 "*",
-						 " ",
-						 "*",
-                         " ",
-                         "*",
-                         " ",
-                         "*",
-                         " ",
-                         "*",
-						 " ",
-						 "*",
-						 " ",
-						 "*",
-                         " ",
-                         "*",
-                         " ",
-                         "*",
-                         " ",
-                         "*"};
+			    "*",
+			    " ",
+			    "*",
+			    " ",
+			    "*",
+			    " ",
+			    "*",
+			    " ",
+			    "*",
+			    " ",
+			    "*",
+			    " ",
+			    "*",
+			    " ",
+			    "*",
+			    " ",
+			    "*",
+			    " ",
+			    "*",
+			    " "};
+char bossattack21_2[20][2]={				// boss2's attack1_2 (attack1_1 + attack1_2)
+			    " ",
+			    "*",
+			    " ",
+			    "*",
+			    " ",
+			    "*",
+			    " ",
+			    "*",
+			    " ",
+			    "*",
+			    " ",
+			    "*",
+			    " ",
+			    "*",
+			    " ",
+			    "*",
+			    " ",
+			    "*",
+			    " ",
+			    "*"};
 char bossattack22[4][15]={"**************",		// throw SUSI
-					      "**************",
+			  "**************",
                           "*            *",
                           "**************"};
-char bossattack24[1][4]={"|||"};				// "TAKO's tentacle"... strong...
-char bossattack25[11][16]={"       *       ",	// "THE STAR" summon
-						   "      ***      ",
-						   "     *****     ",
-						   "***************",
-						   " ************* ",
-						   "  ***********  ",
-						   " ************* ",
-						   "***************",
-						   "     *****     ", 
-						   "      ***      ",
-						   "       *       "};
+char bossattack24[1][4]={"|||"};			// "TAKO's tentacle"... strong...
+char bossattack25[11][16]={"       *       ",		// "THE STAR" summon
+			   "      ***      ",
+			   "     *****     ",
+			   "***************",
+			   " ************* ",
+			   "  ***********  ",
+			   " ************* ",
+			   "***************",
+			   "     *****     ", 
+			   "      ***      ",
+			   "       *       "};
 
 /** main function */
 int main(void)
